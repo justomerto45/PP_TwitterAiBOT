@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterAiBotWPF", "TwitterAiBotWPF\TwitterAiBotWPF.csproj", "{541525C2-A907-42BA-9E85-0424B1A75D8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterAiBotCons", "TwitterAiBotCons\TwitterAiBotCons.csproj", "{BF3BEB8B-6FC8-4531-A4BD-5AEC818C5538}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterAiBot.Data", "TwitterAiBot.Data\TwitterAiBot.Data.csproj", "{D1B61C0F-BCE1-4C65-8697-B4E75FFB656A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{541525C2-A907-42BA-9E85-0424B1A75D8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541525C2-A907-42BA-9E85-0424B1A75D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{541525C2-A907-42BA-9E85-0424B1A75D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{541525C2-A907-42BA-9E85-0424B1A75D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF3BEB8B-6FC8-4531-A4BD-5AEC818C5538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3BEB8B-6FC8-4531-A4BD-5AEC818C5538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3BEB8B-6FC8-4531-A4BD-5AEC818C5538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3BEB8B-6FC8-4531-A4BD-5AEC818C5538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1B61C0F-BCE1-4C65-8697-B4E75FFB656A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B61C0F-BCE1-4C65-8697-B4E75FFB656A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B61C0F-BCE1-4C65-8697-B4E75FFB656A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B61C0F-BCE1-4C65-8697-B4E75FFB656A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DAF7C06-F175-4C76-A96D-FC7D70A3257B}
+	EndGlobalSection
+EndGlobal

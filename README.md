@@ -50,6 +50,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Author
 
-Twitter AI Bot is developed by [Your Name](https://github.com/your-username). Feel free to reach out with any questions or inquiries.
+Twitter AI Bot is developed by [Your Name](https://github.com/justomerto45). Feel free to reach out with any questions or inquiries.
 
 Enjoy generating and sharing AI-generated images on Twitter!
